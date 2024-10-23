@@ -1,0 +1,12 @@
+b{
+    font-size: larger;
+    text-align: center;
+    background-color: rgb(235, 172, 56);
+    color: rgba(43, 94, 234, 0.855);
+    border: 2px solid rgb(217, 43, 43);
+    box-shadow: 4px 0px 15px rgb(223, 137, 137);
+    border-radius: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: 10px;
+}
